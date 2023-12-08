@@ -1,0 +1,54 @@
+{
+  "batch_id": 1,
+  "starting_frame_id": 0,
+  "ending_frame_id": 1499,
+  "timestamp": "2023-12-08 10:12:50"
+}
+{
+  "batch_id": 2,
+  "starting_frame_id": 1500,
+  "ending_frame_id": 2999,
+  "timestamp": "2023-12-08 10:12:51"
+}
+{
+  "batch_id": 3,
+  "starting_frame_id": 1560,
+  "ending_frame_id": 3059,
+  "timestamp": "2023-12-08 10:12:51"
+}
+{
+  "batch_id": 1,
+  "starting_frame_id": 0,
+  "ending_frame_id": 1499,
+  "timestamp": "2023-12-08 10:23:09"
+}
+{
+  "batch_id": 2,
+  "starting_frame_id": 1500,
+  "ending_frame_id": 2999,
+  "timestamp": "2023-12-08 10:23:10"
+}
+{
+  "batch_id": 3,
+  "starting_frame_id": 1560,
+  "ending_frame_id": 3059,
+  "timestamp": "2023-12-08 10:23:10"
+}
+{
+  "batch_id": 1,
+  "starting_frame_id": 0,
+  "ending_frame_id": 1499,
+  "timestamp": "2023-12-08 10:32:56"
+}
+{
+  "batch_id": 2,
+  "starting_frame_id": 1500,
+  "ending_frame_id": 2999,
+  "timestamp": "2023-12-08 10:32:57"
+}
+{
+  "batch_id": 3,
+  "starting_frame_id": 1560,
+  "ending_frame_id": 3059,
+  "timestamp": "2023-12-08 10:32:57"
+}
